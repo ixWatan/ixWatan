@@ -6,7 +6,7 @@
 - 💻 2021 Goals: Getting more familiar with all Front End features
 - 🏫 2021 Goals: Focusing on school more than before
 <br/><br/>
-<a href="google.com"><img src="https://discord.c99.nl/widget/theme-1/333208925832871936.png" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/333208925832871936"><img src="https://discord.c99.nl/widget/theme-1/333208925832871936.png" /></a>
 <br/><br/>
 ## Experienced At
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="cursor: pointer;"/>
