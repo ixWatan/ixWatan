@@ -3,8 +3,6 @@
 <br/>
 ## Hello 👋, I'm Watan Asaad , A Front End Developer.
  
-- 💻 2021 Goals: Getting more familiar with all Front End features
-- 🏫 2021 Goals: Focusing on school more than before
 <br/><br/>
 <a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/333208925832871936"><img src="https://discord.c99.nl/widget/theme-1/333208925832871936.png" /></a>
 <br/><br/>
