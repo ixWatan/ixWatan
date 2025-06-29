@@ -1,8 +1,8 @@
-
-[![Banner](https://cdn.discordapp.com/attachments/736711122077483008/797788504154570782/pngtree-green-flat-vertical-summer-banner-background-image_228232.png)](https://watanasaad.tk)
-<br/>
-## Hello 👋, I'm Watan Asaad , A Front End Developer.
- 
+<!--
+ [![Banner](https://cdn.discordapp.com/attachments/736711122077483008/797788504154570782/pngtree-green-flat-vertical-summer-banner-background-image_228232.png)](https://watanasaad.tk)
+ <br/>
+ ## Hello 👋, I'm Watan Asaad , A Front End Developer.
+ -->
 <br/><br/>
 <a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/333208925832871936"><img src="https://discord.c99.nl/widget/theme-1/333208925832871936.png" /></a>
 <br/><br/>
